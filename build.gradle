@@ -44,7 +44,7 @@ publishing {
     publications {
         impl(MavenPublication) {
             groupId 'com.synload.graphUserSystem'
-            artifactId 'GraphUserSystem'
+            artifactId 'graphusersystem'
             version '1.0'
     
             from components.java
